@@ -18,7 +18,7 @@ STEP 4: Save the Clean data to the file
 
 STEP 5: Remove outliers using IQR
 
-STEP 6: Use zscore of to remove outliers
+STEP 6: Use score of to remove outliers
 
 # Coding and Output
 
